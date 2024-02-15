@@ -1,12 +1,8 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
-
-Obrigado!!!
-
-
+-Primeiro Nome:Ivaneide Pires Monteiro do Nascimento
+-Profissão:Analista QA Trainer
+-Cidade:Belém/Pa
+-O que faz nas horas vaga: Ando de bicicleta e Canto no Karaoke
+-Feedback sobre o curso Qualidade de Software: O Curso é ótimo e professores super participativos
+-Feedback sobre a plataforma de estudo da EBAC: Adequada para os estudos 
